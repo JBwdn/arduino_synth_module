@@ -16,7 +16,7 @@
 ## Panel after paint and clear coat
 ![](images/IMG_0064.jpg)
 
-## Breadboard wiring and components
+## Protoboard wiring and components
 ![](images/IMG_0069.jpg)
 
 Resources used: 
